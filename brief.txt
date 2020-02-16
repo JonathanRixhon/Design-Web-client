@@ -1,0 +1,51 @@
+Brief Client
+Photographe membre de l'image sans nom, il fait de l'édition, des photos et prof a st luc
+L'image sans nom
+Petit lieu qui est à Place Vivegnis cartier st leonard, pas mal d'expos ect dans la région
+Ils sont là car son "partenaire" a une grande collection, il stockait ses livres là bas, Ici ils se servent de ce lieu pour entreposer mais aussi comme atelier pour les photos PHOTOS ET LIVRES.
+Enorme bibliothèque. Ils y font des expos, il s'y passe beaucoup de choses. 10e expo en 2 an assez régulier.
+Ils organisent tout avec leurs propre argent.
+PQ LE SITE ? 
+	1. Interface simple à mettre à jour
+	2. d'une part des artices propres aux expos, et d'autre part la mise en avant de livre via des articles ect,… "double interface"
+	3. Travailler sur deux aspect (Livre et photos)
+	4. Galerie d'image (check sur tumblr)
+	5. Essayer que sont fb et son site lui suffise
+	6. Page de contact lien vers mail, facebook
+	7. Restrouver la même charte graphique dans le site
+	8. Sobre Typo fait partie de l'identité (sobre!= peu chargé) 
+	9. Multilangues (langage switcher, détection automatique de la lange) /!\
+	10. IMPACTANTE Newsletter (demander de l'aide j'ai pas tout suivi) possibilité de s'y inscrire form(peut etre préciser les infos importantes genre "expos plus de 18 ans" éventuellement un article lié  sur le site et on envoie sur mailchimp
+	11. Proposer des trucs, genre publication fb go sur site, … pour les titres, typo cool et corps de txt à nous de trouve! Il kiffe les humanes d'après ce que j'i vu (réutilisable, doc google font, ou police adobe)
+	12. Form contact pour prendre rdv.
+Ils sont une petite équipe, on a une charte graphique ! Ils y basent leurs affiches (inspiration).
+Les drapiers, rue hots château ( le site est sympa pour la bibliothèque) Splitscreen entre expos et bouquins.
+Le jaune n'est pas spécialement obligatoire, le jeune s'est imposé à lui car ça marchait le mieux avec les images
+Dualité txt image car le txt a une plae importante dans son travail. OLIVIER CORNIL (go voir son site)
+Pour le menu, c'est comme on le sent on peu s'éclater un peu 
+Certes, site basé sur l'image mais l'ergo est toujours aussi importante ! ACCESSIBLE!
+COULEURS PRIMAIRES proposer des déclinaison de la couleurs si ça vibre de trop
+Petit lieu qui fonctionne avec pas grand-chose, le but est le plaisir et l'expérimentation, on test des trucs
+Pleins d'images, ok mais optimiser la taille des images !! IMPORTANT
+
+Pour les livres on clique sur le titre,  on a quelques images , description, video éventuellement  EFFICACE.
+Pas de page event. C'est pour facebook ça peut etre un récap du prochain event dans le flux de la page event et présentation
+
+Site d'inspi
+CDLT+ (cordialement?)
+VD  manière de disposer les image
+NNSS 
+Les drapiers( images cool, c'est massif à mort et au niveau des différents txt relativement simple).
+GUI simplicité de la page d'accueil est cool.
+Aventure moderne et le site de leseptantecinq (cool parce que un peu fou, ne pas se sentir limité par la charte non plus)
+ST luc le site est ennuyant 
+Opera de liège, gros travail sur l'image
+
+Kikk festival sympa 
+Tipi photo bookshop, exemple de présentation du livre.
+
+VDD 20 mars il y a un truc, go!!
+Si on veut passer, envoyer un mail 
+4samedi aprem apres le truc
+
+Oli@oliviercornier.be
